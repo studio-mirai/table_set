@@ -1,0 +1,10 @@
+[package]
+name = "table_set"
+edition = "2024.beta"
+license = "Apache 2.0"
+authors = ["Studio Mirai, LLC (build@sm.xyz)"]
+
+[dependencies]
+
+[addresses]
+table_set = "0x0"
